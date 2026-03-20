@@ -1,10 +1,10 @@
-participant_id	species	sex
-sub-636948822	Homo sapiens	F
-sub-643488707	Homo sapiens	M
-sub-648220984	Homo sapiens	M
-sub-665691251	Homo sapiens	M
-sub-736890023	Homo sapiens	M
-sub-758233315	Homo sapiens	M
-sub-793165711	Homo sapiens	M
-sub-835477230	Homo sapiens	F
-sub-907501068	Homo sapiens	F
+participant_id	original_participant_id	species	sex
+sub-636948822	sub-636948822	Homo sapiens	F
+sub-643488707	sub-643488707	Homo sapiens	M
+sub-648220984	sub-648220984	Homo sapiens	M
+sub-665691251	sub-665691251	Homo sapiens	M
+sub-736890023	sub-736890023	Homo sapiens	M
+sub-758233315	sub-758233315	Homo sapiens	M
+sub-793165711	sub-793165711	Homo sapiens	M
+sub-835477230	sub-835477230	Homo sapiens	F
+sub-907501068	sub-907501068	Homo sapiens	F
