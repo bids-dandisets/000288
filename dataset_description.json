@@ -4,7 +4,14 @@
     "HEDVersion": "8.3.0",
     "Description": "U01 Lein PatchSeq upload June 2022",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Mei, Nicholas",
+        "Chartrand, Thomas",
+        "Kalmbach, Brian",
+        "Molnar, Gabor",
+        "Tamas, Gabor",
+        "Lein, Ed"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
